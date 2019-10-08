@@ -177,4 +177,103 @@ int main() {
 
 */ //7
 
+// --------- A simple calling a function tutorial ---------
+
+/* //8
+
+#include <stdio.h>
+ 
+// function declaration 
+int max(int num1, int num2);
+ 
+int main () {
+
+   // local variable definition 
+   int a = 100;
+   int b = 200;
+   int ret;
+ 
+   // calling a function to get max value 
+   ret = max(a, b);
+ 
+   printf( "Max value is : %d\n", ret );
+ 
+   return 0;
+}
+ 
+// function returning the max between two numbers 
+int max(int num1, int num2) {
+
+   // local variable declaration
+   int result;
+ 
+   if (num1 > num2)
+      result = num1;
+   else
+      result = num2;
+ 
+   return result; 
+}
+
+*/ //8
+
+// --------- A simple global & local variable tutorial ---------
+
+/* //9
+
+#include <stdio.h>
+ 
+// global variable declaration
+int a = 20;
+ 
+int main () {
+
+  // local variable declaration in main function
+  int a = 10;
+  int b = 20;
+  int c = 0;
+
+  printf ("value of a in main() = %d\n",  a);
+  c = sum_ints( a, b);
+  printf ("value of c in main() = %d\n",  c);
+
+  return 0;
+}
+
+// function to add two integers
+int sum_ints(int a, int b) {
+
+   printf ("value of a in sum() = %d\n",  a);
+   printf ("value of b in sum() = %d\n",  b);
+
+   return a + b;
+}
+
+*/ //9
+
+// --------- A simple array tutorial ---------
+
+/* //10
+
+#include <stdio.h>
+ 
+int main () {
+
+   int n[ 10 ]; // n is an array of 10 integers
+   int i,j;
+ 
+   // initialize elements of array n to 0  
+   for ( i = 0; i < 10; i++ ) {
+      n[ i ] = i + 100; // set element at location i to i + 100
+   }
+   
+   // output each array element's value
+   for (j = 0; j < 10; j++ ) {
+      printf("Element[%d] = %d\n", j, n[j] );
+   }
+ 
+   return 0;
+}
+
+*/ //10
 
