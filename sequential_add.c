@@ -1,3 +1,5 @@
+// A simple array add using CPU sequential methods in C
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
