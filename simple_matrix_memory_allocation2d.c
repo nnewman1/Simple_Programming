@@ -1,3 +1,5 @@
+// A simple matrix memory allocation add using CPU sequential methods in C
+
 #include<stdio.h>
 #include<stdlib.h>
   
