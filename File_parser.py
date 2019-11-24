@@ -1,4 +1,5 @@
 # Python tutorial using pandas on cleaning and parsing a text file.
+# Pandas is a software library written for data manipulation and analysis.
 
 # Import the pandas library
 import pandas as pd
