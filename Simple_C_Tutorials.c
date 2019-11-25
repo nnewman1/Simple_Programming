@@ -1,6 +1,7 @@
 // A collection of simple tutorials covering all the basics of programming in the C language
 // To compile this file with the terminal the command is 'gcc [File_Name.c] -o [Compile_Name]'
 // To run the compiled file with the terminal the command is './[Compile_Name]'
+// C is a general-purpose, procedural computer programming language supporting structured programming.
 
 // --------- A simple hello world tutorial ---------
 
