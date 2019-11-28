@@ -1,4 +1,5 @@
 # Python tutorial using pandas on cleaning and parsing a text file.
+# Python is an interpreted, high-level, general-purpose programming language.
 # Pandas is a software library written for data manipulation and analysis.
 
 # Import the pandas library
