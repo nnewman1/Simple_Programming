@@ -1,3 +1,5 @@
+# Python is an interpreted, high-level, general-purpose programming language.
+
 import timeit
 code_to_test = """
 a = range(100000)
