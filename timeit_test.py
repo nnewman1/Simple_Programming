@@ -1,4 +1,5 @@
 # Python is an interpreted, high-level, general-purpose programming language.
+# The timeit python module provides a simple function that determines the execution time of small bits in python code.
 
 import timeit
 code_to_test = """
