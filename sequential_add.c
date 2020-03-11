@@ -3,6 +3,7 @@
 // To compile this file with the terminal the command is 'gcc [File_Name.c] -o [Compile_Name]'
 // To run the compiled file with the terminal the command is './[Compile_Name]'
 // Input and Output operations can also be performed in C++ using the C Standard Input and Output Library
+// C Standard General Utilities Library.
 
 #include <stdio.h>
 #include <stdlib.h>
