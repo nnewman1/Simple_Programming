@@ -25,6 +25,8 @@ int main() {
 */ //1
 
 // --------- A simple integer types tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library
+// C Standard General Utilities Library.
 
 /* //2
 
