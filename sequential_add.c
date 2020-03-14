@@ -4,6 +4,7 @@
 // To run the compiled file with the terminal the command is './[Compile_Name]'
 // Input and Output operations can also be performed in C++ using the C Standard Input and Output Library
 // C Standard General Utilities Library.
+// The time.h header defines four variable types, two macro and various functions for manipulating date and time.
 
 #include <stdio.h>
 #include <stdlib.h>
