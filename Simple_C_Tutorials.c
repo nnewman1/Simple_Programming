@@ -59,6 +59,8 @@ int main(int argc, char** argv) {
 */ //2
 
 // --------- A simple floating-point types tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library
+// C Standard General Utilities Library.
 
 /* //3
 
