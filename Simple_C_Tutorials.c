@@ -87,6 +87,7 @@ int main(int argc, char** argv) {
 */ //3
 
 // --------- A simple variable declaration tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library.
 
 /* //4
 
