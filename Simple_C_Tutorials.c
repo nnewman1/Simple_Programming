@@ -143,6 +143,7 @@ int func() {
 */ //5
 
 // --------- A simple #define Preprocessor tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library.
 
 /* //6
 
