@@ -166,6 +166,7 @@ int main() {
 */ //6
 
 // --------- A simple const Keyword tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library.
 
 /* //7
 
