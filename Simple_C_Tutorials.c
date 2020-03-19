@@ -188,6 +188,7 @@ int main() {
 */ //7
 
 // --------- A simple calling a function tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library.
 
 /* //8
 
