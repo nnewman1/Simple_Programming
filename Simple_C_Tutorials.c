@@ -229,6 +229,7 @@ int max(int num1, int num2) {
 */ //8
 
 // --------- A simple global & local variable tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library.
 
 /* //9
 
