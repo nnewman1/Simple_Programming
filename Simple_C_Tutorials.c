@@ -264,6 +264,7 @@ int sum_ints(int a, int b) {
 */ //9
 
 // --------- A simple array tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library.
 
 /* //10
 
