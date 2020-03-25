@@ -291,6 +291,7 @@ int main () {
 */ //10
 
 // --------- A simple string tutorial ---------
+// Input and Output operations can also be performed in C++ using the C Standard Input and Output Library.
 
 /* //11
 
